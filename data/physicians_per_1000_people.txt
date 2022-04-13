@@ -1,0 +1,7 @@
+Data Source: World Development Indicators
+Last Updated: 2022-04-08
+
+Physicians include generalist and specialist medical practitioners.
+
+ID: SH.MED.PHYS.ZS
+Source: World Health Organization's Global Health Workforce Statistics, OECD, supplemented by country data.

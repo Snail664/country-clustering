@@ -1,0 +1,12 @@
+Data Source: World Development Indicators
+Last Updated: 2022-04-08
+
+GNI per capita is gross national income divided by midyear population. 
+GNI (formerly GNP) is the sum of value added by all resident producers 
+plus any product taxes (less subsidies) not included in the valuation of 
+output plus net receipts of primary income (compensation of employees and property income) from abroad. 
+Data are in constant local currency.
+
+ID: NY.GNP.PCAP.KN
+Source: World Bank national accounts data, and OECD National Accounts data files.
+
