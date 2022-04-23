@@ -18,11 +18,11 @@ View files in following order:
 
 ## Our Findings
 
-## References
-Arias, F. J. C. (2019, February 7). Fuzzy String Matching in Python Tutorial. DataCamp Community. Retrieved March 21, 2022, from
-    https://www.datacamp.com/community/tutorials/fuzzy-string-python
- 
-## Contributions
+## Contributions
 Chiraag     - Data preperation, clustering models 
 Chen rui    - 
 Vaish       -
+
+## References
+Arias, F. J. C. (2019, February 7). Fuzzy String Matching in Python Tutorial. DataCamp Community. Retrieved March 21, 2022, from
+    https://www.datacamp.com/community/tutorials/fuzzy-string-python
