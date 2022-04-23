@@ -1,5 +1,10 @@
 # Country Clustering
 
+## About
+
+## Problem statement
+
+## Repository Contents
 Hi there! Join us on our data journey.  
 View files in following order:
 
@@ -10,3 +15,9 @@ View files in following order:
 5. PCA.ipynb
 6. clustering.ipynb
 7. hierarchical.ipynb
+
+## Our Findings
+
+## References
+Arias, F. J. C. (2019, February 7). Fuzzy String Matching in Python Tutorial. DataCamp Community. Retrieved March 21, 2022, from
+    https://www.datacamp.com/community/tutorials/fuzzy-string-python
