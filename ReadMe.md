@@ -30,7 +30,7 @@ We have identified 34 countries, which is the intersection of the worst performi
 
 ## Contributions
 Chiraag     - data cleaning, clustering models.  
-Chen rui    - principal component analysis, cluster interpretation (visualisation). 
+Chen rui    - principal component analysis, cluster interpretation (visualisation).   
 Vaish       - data preparation, EDA. 
 
 ## References
