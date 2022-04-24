@@ -25,6 +25,7 @@ View files in following order:
 8. model_comparison.ipynb
 
 ## Our Findings
+We have identified 34 countries, which is the intersection of the worst performing clusters of our K-Means and Hierarchical models, to be the least   developed countries that we should offer aid to.
 
 
 ## Contributions
