@@ -20,8 +20,9 @@ View files in following order:
 3. data_preparation.ipynb
 4. data_exploration.ipynb
 5. PCA.ipynb
-6. clustering.ipynb
+6. kmeans.ipynb
 7. hierarchical.ipynb
+8. model_comparison.ipynb
 
 ## Our Findings
 
