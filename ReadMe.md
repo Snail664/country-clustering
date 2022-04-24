@@ -1,6 +1,7 @@
 # Country Clustering
 
 ## About
+This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on clustering analysis on countries data.  
 
 ## Problem statement
 
@@ -16,18 +17,21 @@ View files in following order:
 
 1. un_member_states.ipynb
 2. country_name_map.ipynb
-3. data_preperation.ipynb
+3. data_preparation.ipynb
 4. data_exploration.ipynb
 5. PCA.ipynb
-6. clustering.ipynb
+6. kmeans.ipynb
 7. hierarchical.ipynb
+8. model_comparison.ipynb
 
 ## Our Findings
+We have identified 34 countries, which is the intersection of the worst performing clusters of our K-Means and Hierarchical models, to be the least   developed countries that we should offer aid to.
+
 
 ## Contributions
-Chiraag     - Data preperation, clustering models  
-Chen rui    -  
-Vaish       -  
+Chiraag     - data cleaning, clustering models.  
+Chen rui    - principal component analysis, cluster interpretation (visualisation). 
+Vaish       - data preparation, EDA. 
 
 ## References
 Arias, F. J. C. (2019, February 7). Fuzzy String Matching in Python Tutorial. DataCamp Community. Retrieved March 21, 2022, from
