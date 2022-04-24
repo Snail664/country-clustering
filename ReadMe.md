@@ -15,14 +15,14 @@ Identify a cluster of countries that are underdeveloped in multiple areas based 
 Hi there! Join us on our data journey.  
 View files in following order:
 
-1. un_member_states.ipynb
-2. country_name_map.ipynb
-3. data_preparation.ipynb
-4. data_exploration.ipynb
-5. PCA.ipynb
-6. kmeans.ipynb
-7. hierarchical.ipynb
-8. model_comparison.ipynb
+1. [un_member_states.ipynb](https://github.com/Snail664/country-clustering/blob/main/un_member_states.ipynb)
+2. [country_name_map.ipynb](https://github.com/Snail664/country-clustering/blob/main/country_name_map.ipynb)
+3. [data_cleaning.ipynb](https://github.com/Snail664/country-clustering/blob/main/data_cleaning.ipynb)
+4. [data_exploration.ipynb](https://github.com/Snail664/country-clustering/blob/main/data_exploration.ipynb)
+5. [PCA.ipynb](https://github.com/Snail664/country-clustering/blob/main/PCA.ipynb)
+6. [kmeans.ipynb](https://github.com/Snail664/country-clustering/blob/main/kmeans.ipynb)
+7. [hierarchical.ipynb](https://github.com/Snail664/country-clustering/blob/main/hierarchical.ipynb)
+8. [model_comparison.ipynb](https://github.com/Snail664/country-clustering/blob/main/model_comparison.ipynb)
 
 ## Our Findings
 We have identified 34 countries, which is the intersection of the worst performing clusters of our K-Means and Hierarchical models, to be the least   developed countries that we should offer aid to.
